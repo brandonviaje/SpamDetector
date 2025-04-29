@@ -87,4 +87,5 @@ NOTE: Make sure you have java installed on your local machine or an IDE such as 
 
 [8] [Apache OpenNLP Docs](https://opennlp.apache.org/docs/)
 
+> **Note:** This project was originally submitted as coursework for *CSCI2020U Software Systems Development & Integration* at Ontario Tech University, Winter 2025.
 
